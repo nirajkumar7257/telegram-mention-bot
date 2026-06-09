@@ -6,7 +6,7 @@ An advanced Telegram Group Mention and AI Assistant bot built with Pyrogram and 
 
 Neeche diye gaye button par click karke es bot ko ek click me Heroku par deploy karein:
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/nirajkumar7257/Tg-Ai-Mention-bot-"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/nirajkumar7257/telegram-mention-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ---
 
