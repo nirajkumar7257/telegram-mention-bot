@@ -1,0 +1,44 @@
+{
+  "name": "Gemini AI Mention Tagger Bot",
+  "description": "Advanced Telegram Group Mention and Gemini AI Assistant Bot.",
+  "repository": "https://github.com",
+  "keywords": ["telegram", "bot", "pyrogram", "gemini", "ai", "tagger"],
+  "env": {
+    "API_ID": {
+      "description": "Get this from my.telegram.org",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Get this from my.telegram.org",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Get this from @BotFather",
+      "required": true
+    },
+    "GEMINI_API_KEY": {
+      "description": "Get this from Google AI Studio",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram Account User ID",
+      "required": true
+    },
+    "UPDATES_LINK": {
+      "description": "Your Telegram Channel Link (Optional)",
+      "required": false,
+      "value": "https://t.me"
+    },
+    "SUPPORT_LINK": {
+      "description": "Your Telegram Support Group Link (Optional)",
+      "required": false,
+      "value": "https://t.me"
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
