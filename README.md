@@ -25,8 +25,6 @@ Configure these variables in your hosting dashboard:
 - `GEMINI_API_KEY` (Get from Google AI Studio)
 - `OWNER_ID` (Your Telegram Account ID)
 - `UPDATES_LINK` & `SUPPORT_LINK` (Your links for buttons)
-- 
-
 ---
 
 ## Owner Commands
