@@ -1,0 +1,20 @@
+# Secure Keys / Environment Variables
+.env
+*.env
+config.env
+
+# Python Temporary Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# System Files (OS specific)
+.DS_Store
+Thumbs.db
+
+# Virtual Environment (Agar aapne computer me banaya ho)
+venv/
+.venv/
+env/
